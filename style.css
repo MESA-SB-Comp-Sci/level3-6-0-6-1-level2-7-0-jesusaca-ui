@@ -5,3 +5,36 @@
 }
 
 /* write all your rules below */
+.header{
+    border: 8px solid red;
+    background-color: pink;
+    padding: 2px;
+    margin: 20px;
+}
+
+.main {
+    border: 2px solid lightblue;
+    background-color: lightblue;
+    width: 100vw;
+    height: 30vh;
+
+}
+
+.main2{
+    border: 12px solid pink;
+    background-color: yellow;
+    margin: 20px;
+    padding: 20px
+}
+
+.text1{
+    color: blue;
+}
+
+.text2{
+    color: green;
+}
+
+.text3{
+    color: purple;
+}
